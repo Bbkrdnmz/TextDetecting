@@ -4,3 +4,5 @@ As you can see on the dataset, since I made the default language English, it als
 The dataset I used contains about 7000 photos, image taggers and parquet files holding metadata, you can access the dataset here:
 
 https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset
+
+AYou can also access the 'source code' file in two explanations in Turkish and English:
